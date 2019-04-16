@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ijooshuez.jacksondc.com/sitemap.xml
